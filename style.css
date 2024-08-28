@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    
+    padding: 0;
+    font-family: "Merriweather", serif;
+  }
+  body {
+    min-height: 95vh;
+    width: 100%;
+    background-color: whitesmoke;
+    background-image: linear-gradient(rgba(237, 238, 244, 0.7), rgba(237, 238, 244, 0.7)),
+      url("https://cdn.images.express.co.uk/img/dynamic/51/590x/House-prices-prediction-1322179.jpg?r=");
+    background-position: center;
+    background-size: repeat;
+    position: relative;
+    margin-left:0%;
+  }
